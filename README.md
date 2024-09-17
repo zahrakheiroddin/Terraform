@@ -99,20 +99,6 @@ resource "aws_instance" "example_instance" {
 }
 ```
 
-## License
-
-This project is licensed under the MIT License.
-```
-
-### **5. Push `README.md` to GitHub:**
-
-Once you’ve created the `README.md` file with the above content, commit and push it to GitHub.
-
-1. **Stage and commit the file:**
-   ```sh
-   git add README.md
-   git commit -m "Added README with Terraform AWS EC2 example"
-   ```
 
 2. **Push the changes:**
    ```sh
